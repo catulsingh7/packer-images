@@ -1,2 +1,0 @@
-# packer-images
-Packer Images
